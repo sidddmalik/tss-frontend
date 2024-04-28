@@ -9,7 +9,8 @@
     padding: 20px;
   }
   h3{
-    color:purple;
+    border:2px black solid;
+    color:yellow;
   }
   
   .bg-image-1 {
