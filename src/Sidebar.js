@@ -20,7 +20,7 @@ const Navbar = ({ isSidebarOpen, toggleSidebar }) => {
           <nav className="navbar navbar-expand-lg bg-dark navbar-dark py-3 py-lg-0 px-lg-5">
             <div className="navbar-brand d-block d-lg-none"></div>
             <h2>
-              <span className="text-primary">TSS </span>Helpdesk
+              <span className="text-primary">E-Services </span>Provider
             </h2>
             <ul className="navbar-nav mr-auto py-0">
               <li className="nav-item">
@@ -44,7 +44,7 @@ const Navbar = ({ isSidebarOpen, toggleSidebar }) => {
           <nav className="navbar navbar-expand-lg bg-dark navbar-dark flex-column align-items-start">
             <div className="navbar-brand d-block d-lg-none"></div>
             <h1 className="m-0 display-5 text-capitalize font-italic text-white">
-              <span className="text-primary">TSS</span>Helpdesk
+              <span className="text-primary">E-Services</span>Provider
             </h1>
             <ul className="navbar-nav mr-auto py-0 flex-column">
               <li className="nav-item">
