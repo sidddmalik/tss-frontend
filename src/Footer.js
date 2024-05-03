@@ -6,7 +6,7 @@ const Footer = () => {
         <div className="row pt-5">
           <div className="col-lg-4 col-md-12 mb-5">
             <h1 className="mb-3 display-5 text-capitalize text-white">
-              <span className="text-primary">Ticket support system</span>
+              <span className="text-primary">E-Services booking</span>
             </h1>
             <p className="m-0">
             Thank you for reaching out to our support team. Your inquiry is valuable to us. Our dedicated support staff is committed to resolving your concerns promptly. For any further assistance or inquiries, please don't hesitate to contact us. We appreciate your patience and understanding.
@@ -77,7 +77,7 @@ const Footer = () => {
             <p className="m-0 text-white">
               &copy;{" "}
               <a>
-                <a className="h">TSS </a>HelpDesk{" "}
+                <a className="h">ESB </a>HelpDesk{" "}
               </a>
               All Rights Reserved
             </p>
